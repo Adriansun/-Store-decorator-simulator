@@ -1,4 +1,4 @@
-# -Store-decorator-simulator
+# Store-decorator-simulator
 Program: Microsoft Powerpoint.
 
 Beskrivning: En powerpoint som inte är en vanlig powerpoint! Powerpointen fungerar som en
